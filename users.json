@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Արամ Սարգսյան",
+      "email": "aram.sargsyan@example.com",
+      "age": 28,
+      "city": "Երևան",
+      "profession": "Ծրագրավորող"
+    },
+    {
+      "id": "3",
+      "name": "Տիգրան Մանուկյան",
+      "email": "tigran.manukyan@example.com",
+      "age": 32,
+      "city": "Վանաձոր",
+      "profession": "Բժիշկ"
+    },
+    {
+      "id": "4",
+      "name": "Լիանա Աբրահամյան",
+      "email": "liana.abrahamyan@example.com",
+      "age": 26,
+      "city": "Երևան",
+      "profession": "Իրավաբան"
+    },
+    {
+      "id": "5",
+      "name": "Հովհաննես Գևորգյան",
+      "email": "hovhannes.gevorgyan@example.com",
+      "age": 29,
+      "city": "Աբովյան",
+      "profession": "Մարքեթոլոգ"
+    }
+  ]
+}
